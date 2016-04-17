@@ -1,6 +1,6 @@
 .face-square {
   position: absolute;
-  border: 3px dotted #77ee77;
+  /*border: 3px dotted #77ee77;*/
 
   background-repeat: no-repeat;
   background-position: center center;
@@ -15,7 +15,7 @@
   z-index: 31337;
 
   position: absolute;
-  border: 3px dotted #77ee77;
+  /*border: 3px dotted #77ee77;*/
 
   height: auto;
   color: white;
