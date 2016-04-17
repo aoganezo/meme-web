@@ -7,18 +7,23 @@
   background-size: contain;
   overflow: visible;
 
-  z-index: 31337;
+}
+
+* {
+  font-family: 'Comic Sans MS','Open Sans', sans-serif !important;
+  cursor: url("http://www.rw-designer.com/cursor-extern.php?id=25005"), auto;
 }
 
 .caption-text {
-
-  z-index: 31337;
 
   position: absolute;
   /*border: 3px dotted #77ee77;*/
 
   height: auto;
   color: white;
+
+  line-height: 1em;
+  text-align: center;
 
   text-shadow:
        3px 3px 0 #000,
