@@ -1,0 +1,29 @@
+.face-square {
+  position: absolute;
+  border: 3px dotted #77ee77;
+
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  overflow: visible;
+
+  z-index: 31337;
+}
+
+.caption-text {
+
+  z-index: 31337;
+
+  position: absolute;
+  border: 3px dotted #77ee77;
+
+  height: auto;
+  color: white;
+
+  text-shadow:
+       3px 3px 0 #000,
+     -1px -1px 0 #000,
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+}
