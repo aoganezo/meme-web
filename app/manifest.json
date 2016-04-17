@@ -15,8 +15,12 @@
     ]
   },
   "permissions": [
+    "background",
     "tabs",
-    "storage"
+    "storage",
+    "activeTab",
+    "http://*/*",
+    "https://*/*"
   ],
   "options_ui": {
     "page": "options.html",
@@ -28,6 +32,10 @@
       "38": "images/icon-38.png"
     },
     "default_title": "meme-me",
-    "default_popup": "popup.html"
-  }
+    "default_script" : "scripts/background.js"
+  },
+  "web_accessible_resources": [
+    "Cursor/*",
+    "styles/*"
+    ]
 }
