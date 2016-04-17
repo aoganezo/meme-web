@@ -8,9 +8,18 @@
     "128": "images/trollface-128.png"
   },
   "default_locale": "en",
-  "content_scripts" : {
+  "content_scripts" : [
+    {
+      "matches" :
+      [
+        "http://*/*",
+        "https://*/*"
+      ],
 
-  }
+
+      "js": ["scripts/jquery.min.js"]
+    }
+  ],
   "background": {
     "scripts": [
       "scripts/chromereload.js",

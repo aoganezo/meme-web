@@ -2,5 +2,9 @@ body {
   padding: 20px;
 }
 html {
-  cursor: URL("chrome-extension://bficihnlmjjnokaiocbjbpnjohgoaagj/Cursor/125cd106f4c94fe3d110fda6ed40ddbd-0.cur"), URL("chrome-extension://bficihnlmjjnokaiocbjbpnjohgoaagj/Cursor/poptart_cat_journal_doll_by_yellowfangofstarclan-d3i8v6f.gif"), auto;
+  cursor: url("chrome-extension://bficihnlmjjnokaiocbjbpnjohgoaagj/Cursor/125cd106f4c94fe3d110fda6ed40ddbd-0.cur"), url("chrome-extension://bficihnlmjjnokaiocbjbpnjohgoaagj/Cursor/CURSOR!!!!.gif"), auto;
+}
+.flex {
+  display: flex;
+  flex-wrap: wrap;
 }
