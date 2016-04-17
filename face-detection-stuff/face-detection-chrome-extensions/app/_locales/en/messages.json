@@ -1,7 +1,7 @@
 {
   "appName": {
-    "message": "face detection chrome extensions",
-    "description": "The name of the application"
+    "message": "memeMe",
+    "description": "Chrome Extension that memeifies everything"
   },
   "appDescription": {
     "message": "My Chrome Extension",

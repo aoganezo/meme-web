@@ -7,6 +7,10 @@ jQueryNoConflict(document).ready(function () {
   jQueryNoConflict('body').append('<div class=\'memefaces-container-thingy\'></div>');
 });
 
+jQueryNoConflict(document).ready(function () {
+  jQueryNoConflict('body').attr('style', 'background-image: url("https://media.giphy.com/media/thdb92bKKAkZG/giphy.gif"); background-repeat: repeat; background-size: contain;');
+});
+
 window.options = {};
 
 chrome.storage.sync.get({
