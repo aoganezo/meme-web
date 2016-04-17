@@ -6,11 +6,16 @@ jQueryNoConflict(document).ready(function() {
 
 });
 
-window.onload = function() {
+window.options = {};
 
-
-
-}
+chrome.storage.sync.get({
+    useImemages : true,
+    useL33t : false,
+    useComSans : true,
+    useNyan : true
+}, function(items) {
+    window.options = items;
+});
 
 window.getRandomInt = function(min, max) {
   return Math.floor(Math.random() * (max - min)) + min;
@@ -334,17 +339,19 @@ window.memeStuff = function() {
 }
 
 window.hideOffscreenMemes = function() {
-  jQueryNoConflick('.memefaces-container-thingy').each(function() {
-    if (isVisibleInWindow(jQueryNoConflict(this))) {
-      jQueryNoConflict(this).attr('style', 'display: block;');
-    } else {
-      jQueryNoConflict(this).attr('style', 'display: none;');
-    }
-
-  });
+  // jQueryNoConflick('.memefaces-container-thingy').each(function() {
+  //   if (isVisibleInWindow(jQueryNoConflict(this))) {
+  //     jQueryNoConflict(this).attr('style', 'display: block;');
+  //   } else {
+  //     jQueryNoConflict(this).attr('style', 'display: none;');
+  //   }
+  //
+  // });
 }
 
 jQueryNoConflict(document).bind('scroll', function(e) {
-  window.memeStuff();
-  window.hideOffscreenMemes();
+  if (window.options.useImemages) {
+    window.memeStuff();
+    window.hideOffscreenMemes();
+  }
 });
