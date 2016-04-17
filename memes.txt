@@ -1,0 +1,164 @@
+{“yUNo.png”: [
+“STEVE JOBS, Y U NO RESPAWN”,
+”EASY BAKE OVEN, Y U NO EASY”,
+“TEAM ROCKET, Y U NO STALK OTHER KIDS”,
+“POWERPUFF GIRLS, Y U NO HAVE FINGERS”,
+“ORANGE JUICE, Y U NO TASTE GOOD AFTER I BRUSH TEETH”,
+“FAST FOOD, Y U NO MAKE ME FASTER”
+“VOLDEMORT, Y U NO HAVE NOSE”
+]
+
+“badLuckBrian.png”: [
+“ESCAPES A BURNING BUILDING, GETS HIT BY FIRETRUCK”,
+“FIRST TIME ON A BOAT, TITANIC”,
+“THROWS MASTERBALL AT POKEMON, IT BREAKS FREE”,
+“TAKES ACT, FORGETS TO USE #2 PENCIL”,
+“HAS A PET ROCK, IT RUNS AWAY”,
+“STOPS DROPS AND ROLLS, INTO ANOTHER FIRE”,
+“SWALLOWS PILL OF IMMORTALITY, CHOKES ON IT”,
+]
+
+“grumpyCat.png”: [“why don’t you slip into something more comfortable,  like a coma”,
+“I like the Titanic, my favorite character was the iceberg”,
+“Row row row your boat, gently off a cliff”,
+“Found Nemo, he was delicious”,
+“WANT A HUG?, TOO BAD.”,
+“I HAD FUN ONCE, IT WAS AWFUL”,
+“TWINKLE TWINKLE LITTLE STAR, I WANT TO HIT YOU WITH A CAR”,
+“I LIKE THE SOUNDS YOU MAKE, WHEN YOU SHUT UP”
+]
+
+“chemistryCat.png”: [“I’d tell you a chemistry joke…, But all of the good ones argon.”,
+“Tell me a potassium joke. K”,
+“I think I’ve lost an electron, In fact, I’m positive”,
+“What do batman and sodium have in common?, Na-na-na-na-na-na-na-na-na-na-na”
+]
+
+
+“dogeOne.png”: [“much wow”,
+“Very impress”,
+“Such stress”,
+“wow”
+]
+
+“mostInterestingMan.png”: [“I DON’T ALWAYS LAUGH, BUT WHEN I DO, IT’S BECAUSE SOMETHING BAD HAPPENED TO SOMEONE ELSE”,
+ “I DON’T ALWAYS TEST MY CODE, BUT WHEN I DO I DO IT IN PRODUCTION”,
+“I DON’T ALWAYS WORK OUT, BUT WHEN I DO I EXPECT IMMEDIATE AND FANTASTIC RESULTS”,
+“I DON’T ALWAYS CARRY ALL THE GROCERIES IN ONE ARM, BUT WHEN I DO, MY KEYS ARE IN THE WRONG POCKET”,
+]
+
+“dwight.png”: [“I’m sexy and I know it, False. You have the sex appeal of a potato.”,
+“Slow and steady wins the race., False. False always wins the race.”,
+“Age is just a number, False. Age is a word.”,
+“Life is short…, False. It’s the longest thing you do.”,
+“Love is in the air, False. Nitrogen, Oxygen, Argon, and Carbon Dioxide are in the air.”,
+“They say the imagination is limitless, False. You cannot imagine a color outside the visible spectrum.”
+]
+
+“foreverAlone.png”: [
+“FOREVER ALONE”,
+“FOREVER ALONE, LIKE A BOSS”
+]
+
+“pleaseGuy.png”: [
+“PLEASE”,
+“ASH PLEASE, GIVE ME YOUR PIKACHU”,
+“PLEASE, LIKE MY POST”,
+“PLEASE, LOVE ME”,
+]
+
+“obama.png”: [
+“NOT BAD”,
+“HATERS GON HATE”,
+“PROMISES CHANGE, CHANGES PROMISE”,
+“THANKS OBAMA”,
+“”,
+“NOT BAD, BUT YOU STILL FAIL”,
+]
+
+“futuramaFry.png”: [
+“NOT SURE IF TROLL, OR JUST TROLL”,
+“NOT SURE IF DOG LICKS ME TO SHOW HE LOVES ME, OR MY SKIN IS SALTY”,
+“NOT SURE IF NEIGHBORS ARE HAVING A BON-FIRE, OR THEIR GARDENS ON FIRE”,
+“NOT SURE IF,  THAT FART WAS SILENT”,
+“NOT SURE IF HUNGRY, OR JUST BORED”,
+]
+
+“heavyBreathing.png”: [
+“(heavy breathing)”,
+“”,
+“(breathing intensifies)”,
+]
+
+“koala.png”: [
+“ARE YOU, KOALAFIED?”,
+“”,
+]
+
+
+
+“oneDoesNotSimply.png”: [
+“ONE DOES NOT SIMPLY, CODE WITHOUT STACK OVERFLOW”,
+“ONE DOES NOT SIMPLY, STOP PLAYING POKEMON”,
+“ONE DOES NOT SIMPLY, MAKE A MEME”,
+“ONE DOES NOT SIMPLY, GET UP AFTER LEG DAY”,
+“ONE DOES NOT SIMPLY, KILL VOLDEMORT”,
+“ONE DOES NOT SIMPLY, STAY CALM”,
+“ONE DOES NOT SIMPLY, CLOSE THE INTERNET”
+]
+
+“overlyAttachedGirlfriend.png”: [“I RECORDED YOU BREATHING AT NIGHT, AND MADE IT MY RINGTONE”, 
+“YOU AREN’T LOOKING AT ME, WHO ARE YOU THINKING ABOUT?”,
+“RAN INTO YOUR EX, WITH MY CAR”
+]
+
+
+“science.png”: [
+“MEME’S, MEME’S EVERYWHERE”,
+“ALIENS”,
+“”
+]
+
+“stonerStanley.png”: [“IT’S SO DARK IN HERE, I CAN’T THINK STRAIGHT”,
+“GUYS BEING THIRSTY IS LIKE, BEING HUNGRY FOR A DRINK”,
+“I LOVE SLEEP, BECAUSE IT’S LIKE A TIME MACHINE TO BREAKFAST”,
+“SHOES ARE LIKE, HARD SOCKS”,
+“ERROR 404, BRAIN NOT FOUND”,
+“NO OFFICER, IT’S HI HOW ARE YOU”,
+“DUDE ON A SCALE OF 1 TO 10, WHAT’S YOUR FAVORITE COLOR OF THE ALPHABET.”,
+“DUDE, TOASTERS, ARE LIKE TANNING BEDS FOR BREAD”,
+“ICE CUBES ARE SO HARD CORE, THEY FLOAT AROUND IN THEIR OWN BLOOD.”,
+“FRIEND GETS MARRIED, TELLS HIM HAPPY BIRTHDAY”
+]
+
+“successBaby.png”: [
+“YES”,
+“SUCCESS”,
+“PASSES SEMI TRUCK ON THE HIGHWAY, DOESN’T DIE”,
+“COPIED FRIENDS TEST, SCORED HIGHER THAN HIM”,
+“LATE TO WORK, BOSS WAS EVEN LATER”,
+“STARBURST 2-PACK, BOTH PINK”
+]
+
+“trollFace.png”: [
+“TROLLED”,
+“LOL”,
+“TROLOLOLOL”,
+“U JELLY?”,
+“U MAD BRO?”
+]
+
+“whhhyyyy.png”: [
+“WHY?”,
+“WHYYY?”,
+“WHHYYYYYYY?”,
+“BUT… WHY?”
+]
+
+“willyWonka.png”: [“OH YOU’RE A YEAR OLDER THAN ME?, YOU MUST BE SO EXPERIENCED. TELL ME WHAT LIFE WAS LIKE BACK THEN.”,
+“YOU POST ALL OF YOUR PROBLEMS ON FACEBOOK?, THAT MUST SOLVE EVERYTHING”,
+“PLEASE, GO ON”,
+“OH, YOU HATE MONDAYS, I’VE NEVER HEARD OF THAT FEELING BEFORE, GO ON”,
+“PLEASE, TELL ME MORE”
+]
+
